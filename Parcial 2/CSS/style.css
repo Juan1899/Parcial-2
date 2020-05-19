@@ -1,0 +1,89 @@
+
+html{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    align-self: center;
+    background: url(https://trendjackers.com/wp-content/uploads/2017/04/Great-Examples-of-Modern-Video-Game-Marketing-800x450.jpg);
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 20px; 
+}
+
+h1 {
+
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+p {
+
+    text-align: center;
+    
+}
+
+button {
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    border: 0; 
+    padding: 10px;
+    margin: 8px;
+    align-content: center;
+    width: 190px;
+    border-radius: 3px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+input{
+
+    padding: 10px;
+    border: 0;
+    width: 400px;
+    border-radius: 3px;
+
+}
+
+#list {
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    color: white;
+
+}
+
+#votes {
+
+    font-family: 'Poppins', sans-serif  !important;
+    font-size: 18px  !important;
+    color: white  !important;
+   
+}
+
+#votes a {
+
+    color: white;
+
+}
+
+#total {
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+#results {
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    color: white;
+}
